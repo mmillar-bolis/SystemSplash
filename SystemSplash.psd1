@@ -90,7 +90,7 @@ FunctionsToExport = 'Get-SystemSplash'
 # DscResourcesToExport = @()
 
 # List of all modules packaged with this module
-ModuleList = @('SystemSplash.psm1')
+ModuleList = @('SystemSplash')
 
 # List of all files packaged with this module
 FileList = @('SystemSplash.psd1', 'SystemSplash.psm1', 'LICENSE')
