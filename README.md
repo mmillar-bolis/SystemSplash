@@ -1,8 +1,7 @@
 # SystemSplash
 An ascii system information display for PowerShell
 
-Try it out with:
-
+Available on [PSGallery](https://www.powershellgallery.com/packages/SystemSplash). Try it out with:
 ```powershell
 Install-Module -Name SystemSplash -Repository PSGallery -Scope CurrentUser
 ```
